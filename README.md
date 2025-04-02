@@ -39,3 +39,16 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Use as template
+
+In docusaurus.config.js, modify these for the new project:
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
+  favicon: 'img/favicon.ico',
+  url: 'https://eason4p34rk.github.io',
+  baseUrl: '/Docusaurus/',
+
+  organizationName: 'eason4p34rk', // Usually your GitHub org/user name.
+  projectName: 'Docusaurus-test', // Usually your repo name.
+  trailingSlash: false,
