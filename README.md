@@ -53,5 +53,7 @@ In docusaurus.config.js, modify these for the new project:
   projectName: 'Docusaurus-test', // Usually your repo name.
   trailingSlash: false,
 
-In /static/CNAME, enter your target custom domain.
+  everything in footer
+
+In /static/CNAME, set your target custom domain.
   Example: docs.github.com
