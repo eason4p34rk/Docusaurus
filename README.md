@@ -46,8 +46,8 @@ In docusaurus.config.js, modify these for the new project:
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  url: 'https://eason4p34rk.github.io',
-  baseUrl: '/Docusaurus/',
+  url: 'https://docs.apeark.com',
+  baseUrl: '/',
 
   organizationName: 'eason4p34rk', // Usually your GitHub org/user name.
   projectName: 'Docusaurus-test', // Usually your repo name.
